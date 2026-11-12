@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.blue,
+          backgroundColor: Colors.red,
           title: Text(
             'Tudee',
             style: TextStyle(color: Colors.white, fontFamily: 'Cherry'),
